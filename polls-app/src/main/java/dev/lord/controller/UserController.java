@@ -1,6 +1,5 @@
 package dev.lord.controller;
 
-
 import dev.lord.exception.ResourceNotFoundException;
 import dev.lord.model.User;
 import dev.lord.payload.*;

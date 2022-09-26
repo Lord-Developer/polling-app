@@ -19,8 +19,6 @@ import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 import javax.validation.Valid;
 import java.net.URI;
 
-
-
 @RestController
 @RequestMapping("/api/polls")
 public class PollController {
